@@ -1,10 +1,4 @@
-/**    ______  ____  ____  _____  ____    ____  _______   ________  ________  ________  
- *   .' ___  ||_   ||   _||_   _||_   \  /   _||_   __ \ |  __   _||_   __  ||_   __  | 
- *  / .'   \_|  | |__| |    | |    |   \/   |    | |__) ||_/  / /    | |_ \_|  | |_ \_| 
- *  | |         |  __  |    | |    | |\  /| |    |  ___/    .'.' _   |  _| _   |  _| _  
- *  \ `.___.'\ _| |  | |_  _| |_  _| |_\/_| |_  _| |_     _/ /__/ | _| |__/ | _| |__/ | 
- *   `.____ .'|____||____||_____||_____||_____||_____|   |________||________||________| 
- */
+2K USDT summer giveaway of Chimpzee!
 
- 2K USDT summer giveaway of Chimpzee!
- Randomly chooses passport type, gets all minted nfts in that type and chooses winner ID.
+Randomly chooses passport type, gets all minted nfts in that type and chooses single winner ID. Also shows owner wallet of winner.
+To run: add infura key to .env file and use node index.js
