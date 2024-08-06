@@ -5,7 +5,7 @@ import dotenv from "dotenv";
 dotenv.config();
 
 const types = ["diamond", "gold", "silver", "bronze"];
-const jsonFile = "abi.json";
+const jsonFile = "/abi/abi.json";
 const abi = JSON.parse(fs.readFileSync(jsonFile));
 
 const client = createPublicClient({

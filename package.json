@@ -6,6 +6,7 @@
   "type": "module",
   "dependencies": {
     "dotenv": "^16.4.5",
+    "json2xls": "^0.1.2",
     "viem": "^2.13.7"
   }
 }
